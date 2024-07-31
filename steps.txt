@@ -1,0 +1,10 @@
+1. Visit Heroku at https://www.heroku.com
+2.Click on the "Sign Up" button.
+3.Fill in your email, password, and other required information.
+4.Verify your email address by clicking on the link sent to your email.
+5.Log in to your Heroku account.
+
+
+
+
+
